@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KAIHEPALLI SUBHANI</h1>
+<h1 align="center">Hi 👋, I'm KAITHEPALLI SUBHANI</h1>
 <h3 align="center">A passionate frontend developer from Andhra Pradesh, India</h3>
 <img align="right" alt="coding" width="400"src="https://nidhish-pareek.netlify.app/_next/static/media/undraw_developer_activity_re_39tg.af87fb12.svg">
 
