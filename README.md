@@ -9,9 +9,9 @@
 - 🌱 I’m currently learning **React JS**
 
 - ⚡ Tech enthusiast with a passion for blending code and culture, especially Japanese traditions.
-- I believe that you will become is what you think. I believe in quote The only limits on your life are those that you set yourself. from "The monk who sold his ferrary" and “Those who do not remember the past are condemned to repeat it.” from The Intelligent Investor by Benjamin Graham.
+- I believe that you will become what you think. I believe in the quote **The only limits on your life are those that you set yourself.** from "The monk who sold his ferrary" and **“Those who do not remember the past are condemned to repeat it.”** from The Intelligent Investor by Benjamin Graham.
 
-- 💬 Ask me about **HTML,CSS,JS,PYTHON,SQL**
+- 💬 Ask me about **HTML, CSS, JS, PYTHON, SQL**
 
 - 📫 How to reach me **subhanikaithepalli28@gmail.com**
 
