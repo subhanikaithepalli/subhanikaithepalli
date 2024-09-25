@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- ⚡ Tech enthusiast with a passion for blending code and culture, especially Japanese traditions.
+- ⚡ Tech enthusiast passionate about blending code and culture, especially Japanese traditions.
 - I believe that you will become what you think. I believe in the quote **The only limits on your life are those that you set yourself.** from "The monk who sold his ferrary" and **“Those who do not remember the past are condemned to repeat it.”** from The Intelligent Investor by Benjamin Graham.
 
 - 💬 Ask me about **HTML, CSS, JS, PYTHON, SQL**
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/subhani-kaithepalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subhani-kaithepalli-b4377024b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/subhani-kaithepalli-b4377024b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subhani-kaithepalli-b4377024b/" height="30" width="40" /></a>
 <a href="https://instagram.com/subhani____28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subhani____28" height="30" width="40" /></a>
 </p>
 
