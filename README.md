@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **React JS**
 
 - ⚡ Tech enthusiast passionate about blending code and culture, especially Japanese tradition🎌.
-- The years from 21 to 27 are **the prime period to be sharp, quick, and innovative in software**. During this time, I want to contribute my knowledge and skills to impactful projects, helping shape the industry. **I aim to work diligently, grow my expertise, and eventually transition into a managerial role**. By leveraging this time to learn and lead, I aim to make a meaningful contribution both to the company and to the global tech community.
+
 - I believe that you will become what you think. I believe in the quote **The only limits on your life are those you set yourself.** from "The monk who sold his ferrary" and **“Those who do not remember the past are condemned to repeat it.”** from The Intelligent Investor by Benjamin Graham.
 
 - 💬 Ask me about **HTML, CSS, JS, PYTHON, SQL**
