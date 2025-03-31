@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm KAIHEPALLI SUBHANI</h1>
-<h3 align="center">A passionate frontend developer from Andhra Pradesh, India</h3>
+<h3 align="center">A passionate web developer from Andhra Pradesh, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhanikaithepalli&label=Profile%20views&color=0e75b6&style=flat" alt="subhanikaithepalli" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- ⚡ Tech enthusiast with a passion for blending code and culture, especially Japanese traditions.
+- 👯 I’m looking to collaborate on **Web development and Machine Learning projects**
 
-- 💬 Ask me about **HTML,CSS,JS, React, PYTHON,SQL**
+- ⚡ [Tech enthusiast with a passion for blending code and culture, especially Japanese traditions.](Tech enthusiast with a passion for blending code and culture, especially Japanese traditions.)
 
 - 📫 How to reach me **subhanikaithepalli28@gmail.com**
 
