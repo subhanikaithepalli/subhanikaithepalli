@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 FRONT END Developer
 
 - ⚡ Tech enthusiast passionate about blending code and culture, especially Japanese tradition🎌.
 
 - I believe that you will become what you think. I believe in the quote **The only limits on your life are those you set yourself.** from "The monk who sold his ferrary" and **“Those who do not remember the past are condemned to repeat it.”** from The Intelligent Investor by Benjamin Graham.
 
-- 💬 Ask me about **HTML, CSS, JS, PYTHON, SQL**
+- 💬 Ask me about **HTML, CSS, JS,React, PYTHON, SQL**
 
 - 📫 How to reach me **subhanikaithepalli28@gmail.com**
 
