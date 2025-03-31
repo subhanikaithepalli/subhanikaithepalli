@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **subhanikaithepalli28@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ISe2y3q4tQwtuNeylgSql2brZwUDQ12N/edit?usp=sharing&ouid=105881183063495051653&rtpof=true&sd=true](https://docs.google.com/document/d/1ISe2y3q4tQwtuNeylgSql2brZwUDQ12N/edit?usp=sharing&ouid=105881183063495051653&rtpof=true&sd=true)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1-EydpaEZz4MzaASWCkLboXOsMfs2nC5X/view?usp=sharing)](https://docs.google.com/document/d/1ISe2y3q4tQwtuNeylgSql2brZwUDQ12N/edit?usp=sharing&ouid=105881183063495051653&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
