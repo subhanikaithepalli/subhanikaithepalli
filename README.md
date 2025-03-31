@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web development and Machine Learning projects**
 
-- ⚡ [Tech enthusiast with a passion for blending code and culture, especially Japanese traditions.](Tech enthusiast with a passion for blending code and culture, especially Japanese traditions.)
+- ⚡ Tech enthusiast with a passion for blending code and culture, especially Japanese traditions.
 
 - 📫 How to reach me **subhanikaithepalli28@gmail.com**
 
