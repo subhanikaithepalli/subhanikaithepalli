@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- ⚡ Tech enthusiast with a passion for blending code and culture, especially Japanese traditions. Tech enthusiast with a passion for blending code and culture, especially Japanese traditions.
+- ⚡ Tech enthusiast with a passion for blending code and culture, especially Japanese traditions.
 
 - 💬 Ask me about **HTML,CSS,JS, React, PYTHON,SQL**
 
