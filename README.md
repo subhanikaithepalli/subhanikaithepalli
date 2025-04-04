@@ -7,12 +7,10 @@
 
 - 👯 I’m looking to collaborate on **Web development and Machine Learning projects**
 
-- ⚡ Tech enthusiast with a passion for blending code and culture, especially Japanese traditions.
+- ⚡ Tech enthusiast with a passion for blending code and culture, especially Japanese traditions🎌.
 - Check out my Portfolio **https://portfolio-subhanis-projects-23256f8e.vercel.app/**
 
 - 📫 How to reach me **subhanikaithepalli28@gmail.com**
-
-- 📄 Know about my experiences (https://drive.google.com/file/d/1-EydpaEZz4MzaASWCkLboXOsMfs2nC5X/view?usp=sharing)](https://docs.google.com/document/d/1ISe2y3q4tQwtuNeylgSql2brZwUDQ12N/edit?usp=sharing&ouid=105881183063495051653&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
