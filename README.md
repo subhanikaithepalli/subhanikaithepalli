@@ -11,6 +11,7 @@
 - Check out my Portfolio **https://portfolio-subhanis-projects-23256f8e.vercel.app/**
 
 - 📫 How to reach me **subhanikaithepalli28@gmail.com**
+- Learning new Skills and applying them is what motivates me in my life.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
